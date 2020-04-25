@@ -6,4 +6,3 @@ def greeting
   puts "swag swag swag"
 end
 greeting
-
