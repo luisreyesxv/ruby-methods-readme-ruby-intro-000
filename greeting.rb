@@ -7,4 +7,3 @@ def greeting
 end
 greeting
 
-greeting + " done by luis"
