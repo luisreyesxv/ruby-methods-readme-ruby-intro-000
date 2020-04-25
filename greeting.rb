@@ -4,5 +4,4 @@ def greeting
   puts "and i just need you to know, that i'm so fresh"
   puts "you can suck my balls"
   puts "swag swag swag"
-end  
-
+end
