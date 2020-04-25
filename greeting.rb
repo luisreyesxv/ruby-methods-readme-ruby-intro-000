@@ -5,3 +5,6 @@ def greeting
   puts "you can suck my balls"
   puts "swag swag swag"
 end
+greeting
+
+greeting + " done by luis"
